@@ -1,3 +1,13 @@
+"""
+ * Copyright (C) 2020 Navaneeth KT nktclt@gmail.com>
+ * This file is part of NOUS_BLOC#21.
+ * It can not be copied and/or distributed without the express
+ * permission of Navaneeth KT
+"""
+
+
+
+
 import cv2
 import numpy as np
 import argparse
